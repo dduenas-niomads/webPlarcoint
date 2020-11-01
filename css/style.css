@@ -37,9 +37,16 @@
     overflow: hidden;
 }
 
+.img_logo {
+	width: 500px;
+}
+
 
 @media (max-width: 480px) {
 	.video-container { 
         margin-top: 0px;
-        margin-left: -750px; }
+		margin-left: -750px; }
+		
+	.img_logo { 
+		width: 320px;}
 }
