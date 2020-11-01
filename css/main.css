@@ -227,7 +227,7 @@ a img:hover {
 }
 
 .overlay {
-  background: rgba(7, 9, 21, 0.5);
+  /* background: rgba(7, 9, 21, 0.5); */
 }
 
 .overlay-white {
@@ -652,7 +652,7 @@ a .la:hover {
 }
 
 .navbar-custom a {
-  color: #fff;
+  color: #031529;
   font-size: 14px;
   text-transform: uppercase;
   text-decoration: none;
