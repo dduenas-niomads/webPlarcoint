@@ -2259,9 +2259,9 @@ blockquote:after {
   transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
   -webkit-transition: all 0.4s ease;
-  opacity: 0;
-  visibility: hidden;
-  overflow: hidden;
+  opacity: 1;
+  /* visibility: hidden;
+  overflow: hidden; */
 }
 .portfolio-overlay .caption {
   position: absolute;
@@ -2272,7 +2272,7 @@ blockquote:after {
   transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
   -webkit-transition: all 0.4s ease;
-  opacity: 0;
+  opacity: 1;
 }
 
 .portfolio-item a:hover .portfolio-overlay .caption {
