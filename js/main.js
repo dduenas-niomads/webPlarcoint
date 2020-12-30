@@ -6,6 +6,15 @@
 
 (function($){
     "use strict";
+    $(".menu-btn").on("click", function() {
+        $(".burger-menu").addClass("active");
+      });
+      $(".menu-widget").on("click", function() {
+        $(".burger-menu").removeClass("active");
+      });
+      $(".close-menu").on("click", function() {
+        $(".burger-menu").removeClass("active");
+      });
     $(document).ready(function() {
 
         /***********************************************
