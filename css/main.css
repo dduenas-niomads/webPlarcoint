@@ -540,6 +540,7 @@ a .la:hover {
   width: 20px;
   margin-top: 21px;
   float: left;
+  cursor:pointer;
 }
 .menu-btn > a span {
   display: block;
@@ -576,6 +577,7 @@ a .la:hover {
   position: absolute;
   top: 50px;
   right: 50px;
+  cursor:pointer;
 }
 .burger-menu .close-menu i:before {
   color: #fff;
