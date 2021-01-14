@@ -272,8 +272,8 @@ section, .section {
 }
 
 .section-small {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   min-height: auto !important;
 }
 
@@ -3180,13 +3180,13 @@ nav.nav-demo {
   }
 
   section, .section {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
   .section-small {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
 
   .portfolio-sorting li a {
